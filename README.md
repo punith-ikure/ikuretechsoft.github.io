@@ -3,3 +3,5 @@ Our inspirational dream is to achieve zero mortality from the lack of primary he
 
 iKure Digital Health enables iKure and ecosystem partners to achieve this collective mission through a range of digital tools, technologies, and services.
 
+### What do we do?
+iKure Technology Team currently maintains about 10 web, mobile, and data science projects. Besides, the team manages implementation projects in partnership with the government and social impact organizations.
