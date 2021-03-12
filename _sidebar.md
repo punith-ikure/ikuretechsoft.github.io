@@ -2,7 +2,7 @@
   * [Intro](README.md)
 
 * Timeline
-  * [2021](timeline/2021/annual.md)
+  * [2021](2021.md)
   ** [Jan](jan-2021.md)
   ** [Feb](feb-2021.md)
   ** [Mar](timeline/2021/mar-2021.md)
