@@ -5,3 +5,6 @@ iKure Digital Health enables iKure and ecosystem partners to achieve this collec
 
 ### What do we do?
 iKure Technology Team currently maintains about 10 web, mobile, and data science projects. Besides, the team manages implementation projects in partnership with the government and social impact organizations.
+
+### About this
+The documentation provides product roadmap, timeline, and project overview. It also provides the links to individual project specific documentation.
